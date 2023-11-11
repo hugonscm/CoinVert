@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoinVert</string>
+    <string name="de">De:</string>
+    <string name="para">Para:</string>
+    <string name="data">Última atualização: ??/??/????</string>
+    <string name="valor">Valor:</string>
+    <string name="valor_convertido">Valor convertido:</string>
+    <string name="digite_um_valor">Digite um valor</string>
+    <string name="dados_obtidos_do_banco_central_europeu_n_ltima_atualiza_o">Dados obtidos do Banco Central Europeu\n Última atualização: ??/??/????</string>
+</resources>
